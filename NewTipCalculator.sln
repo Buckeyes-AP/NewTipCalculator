@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewTipCalculator", "NewTipCalculator\NewTipCalculator.csproj", "{56A23924-3BA5-405C-BF4D-2A7710AD5B18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56A23924-3BA5-405C-BF4D-2A7710AD5B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A23924-3BA5-405C-BF4D-2A7710AD5B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A23924-3BA5-405C-BF4D-2A7710AD5B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A23924-3BA5-405C-BF4D-2A7710AD5B18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8C05CA7-2075-4692-8A2E-F51F59D18E84}
+	EndGlobalSection
+EndGlobal
